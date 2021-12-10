@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/app/src/main/res/layout/activity_chat.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/app/src/main/res/layout/activity_conversation.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/app/src/main/res/layout/activity_group_member_select.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/app/src/main/res/layout/activity_login.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/app/src/main/res/layout/activity_register.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/app/src/main/res/layout/conversation_fragment.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/app/src/main/res/layout/fragment_conversation.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/app/src/main/res/layout/item_conversation.xml" value="0.5" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/app/src/main/res/layout/toast_phone.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/drawable/message_shap_chat_bg.xml" value="0.3764102564102564" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/drawable/record_microphone_bj.xml" value="0.38229166666666664" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/drawable/send_speech_btn_normal_style.xml" value="0.38229166666666664" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/drawable/send_speech_btn_pres_style.xml" value="0.38229166666666664" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/drawable/shape_session_btn_voice_normal.xml" value="0.38229166666666664" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/dialog_permission.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/dialog_record.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/fragment_chat.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/include_add_layout.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/include_chat_item_header.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/include_chat_item_nickname.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/include_chat_item_status.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/include_emoji_layout.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/include_left_chat_item_header.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/include_left_chat_item_nickname.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/include_right_chat_item_header.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/include_right_chat_item_nickname.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/include_right_chat_item_status.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/include_right_chat_item_time.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/item_audio_receive.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/item_audio_send.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/item_conversation.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/item_emoji.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/item_emoji_vprecy.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/item_file_receive.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/item_file_send.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/item_image_receive.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/item_image_send.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/item_text_receive.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/item_text_send.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/item_unknown.xml" value="0.2046875" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/item_video_receive.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/item_video_send.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/module_dialog_zx_kick_out.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FtIMDemo/ftimkit/src/main/res/layout/voicenotes_recorder_dialog.xml" value="0.36614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

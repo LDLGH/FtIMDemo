@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="im_picture">[图片]</string>
+    <string name="im_video">[视频]</string>
+    <string name="im_file">[文件]</string>
+    <string name="im_voice">[语音]</string>
+    <string name="im_unknown">[未知消息]</string>
+    <string name="record_limit_tips">已达到最大语音长度</string>
+    <string name="play_error_tip">语音文件已损坏或不存在</string>
+    <string name="album">相册</string>
+    <string name="video">视频</string>
+    <string name="file">文件</string>
+    <string name="location">位置</string>
+    <string name="hold_to_speak">按住说话</string>
+    <string name="send">发送</string>
+</resources>
